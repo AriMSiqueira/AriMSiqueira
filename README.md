@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AriMSiqueira, from Southeastern Brazil.
-- I’m interested in astronomy related software for automation, observation planning, data capturing and processing.
-- I’m currently learning Python, robotics/automation and astronomical data capturing and analysing. I can't code yet.
-- I’m looking to collaborate with whoever needs someone to test-drive new apps on the above subjects.
+- I’m interested in astronomy-related software for automation, observation planning and data capturing & processing.
+- I’m currently learning Python, robotics & automation and astronomical data capturing and analyses. I can't code yet.
+- I’m available to collaborate with whoever needs someone to test-drive new apps on the above subjects.
 - 📫 How to reach me: ari.m.siqueira@icloud.com
 
 <!---
